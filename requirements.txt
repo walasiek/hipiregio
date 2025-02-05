@@ -1,0 +1,9 @@
+pytest
+pandas
+numpy
+ipython
+ipykernel
+notebook
+traitlets
+jupyter_contrib_nbextensions
+tqdm

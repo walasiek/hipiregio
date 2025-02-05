@@ -1,3 +1,15 @@
+# specific notebooks not to be included
+# notebooks/001_*
+
+# never include raw data
+resources/raw-data/
+
+# temp files
+*~
+zrzut*
+*.prv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
